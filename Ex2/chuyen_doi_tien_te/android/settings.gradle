@@ -1,0 +1,3 @@
+rootProject.name = 'chuyen_doi_tien_te'
+
+include ':app'
